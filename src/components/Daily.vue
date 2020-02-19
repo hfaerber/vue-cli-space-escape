@@ -1,16 +1,18 @@
 <template>
   <section class='daily-container'>
     <header class='daily-header'>
-      <p>title will go here</p>
-      <p>date will go here</p>
+      <p>{{ image.title }}</p>
+      <p>{{ image.date }}</p>
     </header>
-    <p>image will go here</p>
+    <img class='image' :src="image.url" />
   </section>
 </template>
 
 <script>
   export default {
     name: 'Daily',
+    props: ['image'],
+
   }
 </script>
 

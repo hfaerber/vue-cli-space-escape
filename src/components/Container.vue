@@ -2,7 +2,10 @@
   <main class="main" id='main'>
     <h3 class='error-message' v-if="error">
       Uh-oh. The data seems to be lost in space.</h3>
-    <Daily />
+    <Daily
+      v-for="image in images"
+      v-bind:key="image.date"
+      v-bind:image="image" />
   </main>
 </template>
 
