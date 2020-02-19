@@ -35,4 +35,8 @@
     text-align: center;
     width: 95%;
   }
+  .image {
+  border: 1px ridge whitesmoke;
+  width: 100%;
+}
 </style>
