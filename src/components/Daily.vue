@@ -37,6 +37,7 @@
   }
   .image {
   border: 1px ridge whitesmoke;
-  width: 100%;
+  max-width: 100%;
+  max-height: 95vh;
 }
 </style>
