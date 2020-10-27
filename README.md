@@ -9,3 +9,5 @@ I was assigned to build a very simple application using Vue.js - a framework tha
 Clone this repo to your local machine.  
 Run `npm install`.
 Run `npm run serve` to view the app in the browser on `localhost:8080`.
+
+[test](https://velocity-fun-958-dev-ed.cs42.my.salesforce.com/sfc/servlet.shepherd/version/download/06856000000nNOtAAM)
