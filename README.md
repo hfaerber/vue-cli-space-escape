@@ -10,4 +10,6 @@ Clone this repo to your local machine.
 Run `npm install`.
 Run `npm run serve` to view the app in the browser on `localhost:8080`.
 
-![test](http://velocity-fun-958-dev-ed.cs42.my.salesforce.com/sfc/servlet.shepherd/version/download/06856000000nNOtAAM)
+
+![06956000000nZS5AAM](https://velocity-fun-958-dev-ed.cs42.my.salesforce.com/sfc/servlet.shepherd/version/download/06856000000nNUzAAM)
+
